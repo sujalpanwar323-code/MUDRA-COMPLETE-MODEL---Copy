@@ -1,0 +1,91 @@
+{
+  "test_cases": [
+    {
+      "id": 1,
+      "keywords": [
+        "NEED",
+        "WATER"
+      ],
+      "expected_output": "I need water."
+    },
+    {
+      "id": 2,
+      "keywords": [
+        "MEDICINE",
+        "NEED"
+      ],
+      "expected_output": "I need medicine."
+    },
+    {
+      "id": 3,
+      "keywords": [
+        "WASHROOM",
+        "WHERE",
+        "ME"
+      ],
+      "expected_output": "Where is the washroom?"
+    },
+    {
+      "id": 4,
+      "keywords": [
+        "HUNGRY",
+        "FOOD",
+        "NEED"
+      ],
+      "expected_output": "I am hungry and need food."
+    },
+    {
+      "id": 5,
+      "keywords": [
+        "HELP",
+        "NEED",
+        "PLEASE"
+      ],
+      "expected_output": "Please help me."
+    },
+    {
+      "id": 6,
+      "keywords": [
+        "HEAD",
+        "PAIN"
+      ],
+      "expected_output": "My head hurts."
+    },
+    {
+      "id": 7,
+      "keywords": [
+        "WAIT",
+        "PLEASE",
+        "TWO",
+        "MINUTE"
+      ],
+      "expected_output": "Please wait two minutes."
+    },
+    {
+      "id": 8,
+      "keywords": [
+        "GO",
+        "HOME",
+        "NOW"
+      ],
+      "expected_output": "I want to go home now."
+    },
+    {
+      "id": 9,
+      "keywords": [
+        "THIRSTY",
+        "WATER"
+      ],
+      "expected_output": "I am thirsty. Please give me water."
+    },
+    {
+      "id": 10,
+      "keywords": [
+        "HELP",
+        "HOSPITAL",
+        "URGENT"
+      ],
+      "expected_output": "I need urgent help getting to a hospital."
+    }
+  ]
+}

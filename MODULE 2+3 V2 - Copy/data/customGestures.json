@@ -1,0 +1,41 @@
+{
+  "status": "DEMONSTRATION_ONLY_UNCALIBRATED",
+  "mappingStatus": "PENDING_HARDWARE_VALIDATION",
+  "gestures": [
+    {
+      "id": "CUSTOM_1",
+      "name": "Custom Gesture 1",
+      "mode": 1,
+      "flex": "11111",
+      "distance_state": "HIGH"
+    },
+    {
+      "id": "CUSTOM_2",
+      "name": "Custom Gesture 2",
+      "mode": 1,
+      "flex": "11110",
+      "distance_state": "HIGH"
+    },
+    {
+      "id": "CUSTOM_3",
+      "name": "Custom Gesture 3",
+      "mode": 1,
+      "flex": "11101",
+      "distance_state": "HIGH"
+    },
+    {
+      "id": "CUSTOM_4",
+      "name": "Custom Gesture 4",
+      "mode": 0,
+      "flex": "01000",
+      "distance_state": "HIGH"
+    },
+    {
+      "id": "CUSTOM_5",
+      "name": "Custom Gesture 5",
+      "mode": 0,
+      "flex": "01001",
+      "distance_state": "LOW"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mudra-system",
+  "version": "1.0.0",
+  "description": "MUDRA Module 2 & Module 3 Integration Pipeline",
+  "main": "simulate_pipeline.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node simulate_pipeline.js",
+    "simulate": "node simulate_pipeline.js",
+    "test": "node --test \"tests/*.test.js\"",
+    "test:module2": "node --test tests/module2.test.js",
+    "test:integration": "node --test tests/integration.test.js"
+  },
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}

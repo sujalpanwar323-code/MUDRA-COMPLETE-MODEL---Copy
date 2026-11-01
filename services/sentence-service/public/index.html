@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sign to speech</title>
+</head>
+<body style="font-family:sans-serif;max-width:480px;margin:2rem auto;padding:0 1rem">
+<h3>Sign to speech</h3>
+<input id="kw" value="HELLO WATER" style="width:100%;padding:8px">
+<select id="lang" style="margin:8px 0;padding:6px">
+  <option value="en">English</option>
+  <option value="hi">Hindi</option>
+</select>
+<button id="go" style="padding:8px 16px">Speak</button>
+<p id="out"></p>
+<script>
+async function speakText(text, lang) {
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = lang === "hi" ? "hi-IN" : "en-IN";
+  speechSynthesis.cancel();
+  speechSynthesis.speak(u);
+}
+document.getElementById("go").onclick = async () => {
+  const keywords = document.getElementById("kw").value;
+  const lang = document.getElementById("lang").value;
+  const r = await fetch("/sentence", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ keywords, lang }),
+  });
+  const { sentence } = await r.json();
+  document.getElementById("out").textContent = sentence;
+  speakText(sentence, lang);
+};
+</script>
+</body>
+</html>

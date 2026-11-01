@@ -1,0 +1,81 @@
+{
+  "status": "DEMONSTRATION_ONLY_UNCALIBRATED",
+  "mappingStatus": "PENDING_HARDWARE_VALIDATION",
+  "sentences": [
+    {
+      "id": "FALLBACK_01",
+      "pattern": "00001",
+      "sentence": "I need help."
+    },
+    {
+      "id": "FALLBACK_02",
+      "pattern": "00010",
+      "sentence": "Please call an ambulance."
+    },
+    {
+      "id": "FALLBACK_03",
+      "pattern": "00011",
+      "sentence": "I am having difficulty breathing."
+    },
+    {
+      "id": "FALLBACK_04",
+      "pattern": "00100",
+      "sentence": "I am in severe pain."
+    },
+    {
+      "id": "FALLBACK_05",
+      "pattern": "00101",
+      "sentence": "Please call my family."
+    },
+    {
+      "id": "FALLBACK_06",
+      "pattern": "00110",
+      "sentence": "I need water."
+    },
+    {
+      "id": "FALLBACK_07",
+      "pattern": "00111",
+      "sentence": "I feel dizzy."
+    },
+    {
+      "id": "FALLBACK_08",
+      "pattern": "01000",
+      "sentence": "I am feeling very sick."
+    },
+    {
+      "id": "FALLBACK_09",
+      "pattern": "01001",
+      "sentence": "Please take me to the hospital."
+    },
+    {
+      "id": "FALLBACK_10",
+      "pattern": "01010",
+      "sentence": "I cannot move."
+    },
+    {
+      "id": "FALLBACK_11",
+      "pattern": "01011",
+      "sentence": "I am feeling unsafe."
+    },
+    {
+      "id": "FALLBACK_12",
+      "pattern": "01100",
+      "sentence": "Please stay with me."
+    },
+    {
+      "id": "FALLBACK_13",
+      "pattern": "01101",
+      "sentence": "I need my medication."
+    },
+    {
+      "id": "FALLBACK_14",
+      "pattern": "01110",
+      "sentence": "I have fallen and need assistance."
+    },
+    {
+      "id": "FALLBACK_15",
+      "pattern": "01111",
+      "sentence": "Please contact emergency services."
+    }
+  ]
+}

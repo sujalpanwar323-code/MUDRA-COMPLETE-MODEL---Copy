@@ -1,0 +1,21 @@
+{
+  "name": "mudra-system-root",
+  "version": "1.0.0",
+  "description": "MUDRA — Smart Gesture-to-Speech Communication System",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/orchestrate_pipeline.js start",
+    "start:all": "node scripts/orchestrate_pipeline.js start",
+    "stop": "node scripts/orchestrate_pipeline.js stop",
+    "restart": "node scripts/orchestrate_pipeline.js restart",
+    "status": "node scripts/orchestrate_pipeline.js status",
+    "start:recognition": "node \"3 INTEGRATION V2/udp_bridge.js\"",
+    "start:sentence": "node services/sentence-service/server.js",
+    "start:frontend": "node frontend/dev-server.js",
+    "watch:pipeline": "node scripts/watch_pipeline.js",
+    "simulate:pipeline": "node \"3 INTEGRATION V2/simulate_pipeline.js\"",
+    "simulate:e2e": "node scripts/simulate_e2e.js",
+    "test:recognition": "npm.cmd --prefix \"3 INTEGRATION V2\" test",
+    "test": "npm.cmd --prefix \"3 INTEGRATION V2\" test && node --test scripts/orchestrator.test.js"
+  }
+}

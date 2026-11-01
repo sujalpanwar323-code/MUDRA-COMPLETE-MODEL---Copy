@@ -1,0 +1,1542 @@
+[
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": false
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": false
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": false
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": false
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": true,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": false
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": false
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": true,
+      "index": true,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": false
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": false
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": false
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": false
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": true,
+      "index": false,
+      "middle": true,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 1,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 3,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": false
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": false
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": true,
+      "little": true
+    },
+    "ultrasonic": {
+      "zone": 1,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  },
+  {
+    "mode": 0,
+    "fingers": {
+      "thumb": false,
+      "index": false,
+      "middle": false,
+      "ring": false,
+      "little": false
+    },
+    "ultrasonic": {
+      "zone": 2,
+      "stable": true
+    }
+  }
+]

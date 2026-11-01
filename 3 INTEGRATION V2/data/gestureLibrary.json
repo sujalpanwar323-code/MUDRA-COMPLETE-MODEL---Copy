@@ -1,354 +1,354 @@
 {
   "status": "DEMONSTRATION_ONLY_UNCALIBRATED",
-  "mappingStatus": "KEYWORD_LABELS_UPDATED_PATTERN_MAPPINGS_UNCALIBRATED",
+  "mappingStatus": "KEYWORD_LABELS_UPDATED_PATTERN_MAPPINGS_UNCALIBRATED_REST_RESERVED",
   "gestures": [
     {
       "id": "GESTURE_001",
       "mode": 0,
-      "flex": "00000",
+      "flex": "00001",
       "distance_state": "LOW",
       "keyword": "HELLO"
     },
     {
       "id": "GESTURE_002",
       "mode": 0,
-      "flex": "00000",
+      "flex": "00001",
       "distance_state": "MID",
       "keyword": "THANK_YOU"
     },
     {
       "id": "GESTURE_003",
       "mode": 0,
-      "flex": "00000",
+      "flex": "00001",
       "distance_state": "HIGH",
       "keyword": "YES"
     },
     {
       "id": "GESTURE_004",
       "mode": 1,
-      "flex": "00000",
+      "flex": "00001",
       "distance_state": "LOW",
       "keyword": "NO"
     },
     {
       "id": "GESTURE_005",
       "mode": 1,
-      "flex": "00000",
+      "flex": "00001",
       "distance_state": "MID",
       "keyword": "PLEASE"
     },
     {
       "id": "GESTURE_006",
       "mode": 1,
-      "flex": "00000",
+      "flex": "00001",
       "distance_state": "HIGH",
       "keyword": "HELP"
     },
     {
       "id": "GESTURE_007",
       "mode": 0,
-      "flex": "00001",
+      "flex": "00010",
       "distance_state": "LOW",
       "keyword": "STOP"
     },
     {
       "id": "GESTURE_008",
       "mode": 0,
-      "flex": "00001",
+      "flex": "00010",
       "distance_state": "MID",
       "keyword": "GO"
     },
     {
       "id": "GESTURE_009",
       "mode": 0,
-      "flex": "00001",
+      "flex": "00010",
       "distance_state": "HIGH",
       "keyword": "WAIT"
     },
     {
       "id": "GESTURE_010",
       "mode": 1,
-      "flex": "00001",
+      "flex": "00010",
       "distance_state": "LOW",
       "keyword": "MORE"
     },
     {
       "id": "GESTURE_011",
       "mode": 1,
-      "flex": "00001",
+      "flex": "00010",
       "distance_state": "MID",
       "keyword": "DONE"
     },
     {
       "id": "GESTURE_012",
       "mode": 1,
-      "flex": "00001",
+      "flex": "00010",
       "distance_state": "HIGH",
       "keyword": "WATER"
     },
     {
       "id": "GESTURE_013",
       "mode": 0,
-      "flex": "00010",
+      "flex": "00011",
       "distance_state": "LOW",
       "keyword": "FOOD"
     },
     {
       "id": "GESTURE_014",
       "mode": 0,
-      "flex": "00010",
+      "flex": "00011",
       "distance_state": "MID",
       "keyword": "RESTROOM"
     },
     {
       "id": "GESTURE_015",
       "mode": 0,
-      "flex": "00010",
+      "flex": "00011",
       "distance_state": "HIGH",
       "keyword": "MEDICINE"
     },
     {
       "id": "GESTURE_016",
       "mode": 1,
-      "flex": "00010",
+      "flex": "00011",
       "distance_state": "LOW",
       "keyword": "EMERGENCY"
     },
     {
       "id": "GESTURE_017",
       "mode": 1,
-      "flex": "00010",
+      "flex": "00011",
       "distance_state": "MID",
       "keyword": "CALL"
     },
     {
       "id": "GESTURE_018",
       "mode": 1,
-      "flex": "00010",
+      "flex": "00011",
       "distance_state": "HIGH",
       "keyword": "HOME"
     },
     {
       "id": "GESTURE_019",
       "mode": 0,
-      "flex": "00011",
+      "flex": "00100",
       "distance_state": "LOW",
       "keyword": "FAMILY"
     },
     {
       "id": "GESTURE_020",
       "mode": 0,
-      "flex": "00011",
+      "flex": "00100",
       "distance_state": "MID",
       "keyword": "FRIEND"
     },
     {
       "id": "GESTURE_021",
       "mode": 0,
-      "flex": "00011",
+      "flex": "00100",
       "distance_state": "HIGH",
       "keyword": "GOOD"
     },
     {
       "id": "GESTURE_022",
       "mode": 1,
-      "flex": "00011",
+      "flex": "00100",
       "distance_state": "LOW",
       "keyword": "BAD"
     },
     {
       "id": "GESTURE_023",
       "mode": 1,
-      "flex": "00011",
+      "flex": "00100",
       "distance_state": "MID",
       "keyword": "HAPPY"
     },
     {
       "id": "GESTURE_024",
       "mode": 1,
-      "flex": "00011",
+      "flex": "00100",
       "distance_state": "HIGH",
       "keyword": "SAD"
     },
     {
       "id": "GESTURE_025",
       "mode": 0,
-      "flex": "00100",
+      "flex": "00101",
       "distance_state": "LOW",
       "keyword": "PAIN"
     },
     {
       "id": "GESTURE_026",
       "mode": 0,
-      "flex": "00100",
+      "flex": "00101",
       "distance_state": "MID",
       "keyword": "TIRED"
     },
     {
       "id": "GESTURE_027",
       "mode": 0,
-      "flex": "00100",
+      "flex": "00101",
       "distance_state": "HIGH",
       "keyword": "COLD"
     },
     {
       "id": "GESTURE_028",
       "mode": 1,
-      "flex": "00100",
+      "flex": "00101",
       "distance_state": "LOW",
       "keyword": "HOT"
     },
     {
       "id": "GESTURE_029",
       "mode": 1,
-      "flex": "00100",
+      "flex": "00101",
       "distance_state": "MID",
       "keyword": "I_NEED"
     },
     {
       "id": "GESTURE_030",
       "mode": 1,
-      "flex": "00100",
+      "flex": "00101",
       "distance_state": "HIGH",
       "keyword": "I_WANT"
     },
     {
       "id": "GESTURE_031",
       "mode": 0,
-      "flex": "00101",
+      "flex": "00110",
       "distance_state": "LOW",
       "keyword": "I_AM"
     },
     {
       "id": "GESTURE_032",
       "mode": 0,
-      "flex": "00101",
+      "flex": "00110",
       "distance_state": "MID",
       "keyword": "WHERE"
     },
     {
       "id": "GESTURE_033",
       "mode": 0,
-      "flex": "00101",
+      "flex": "00110",
       "distance_state": "HIGH",
       "keyword": "WHAT"
     },
     {
       "id": "GESTURE_034",
       "mode": 1,
-      "flex": "00101",
+      "flex": "00110",
       "distance_state": "LOW",
       "keyword": "WHO"
     },
     {
       "id": "GESTURE_035",
       "mode": 1,
-      "flex": "00101",
+      "flex": "00110",
       "distance_state": "MID",
       "keyword": "WHEN"
     },
     {
       "id": "GESTURE_036",
       "mode": 1,
-      "flex": "00101",
+      "flex": "00110",
       "distance_state": "HIGH",
       "keyword": "WHY"
     },
     {
       "id": "GESTURE_037",
       "mode": 0,
-      "flex": "00110",
+      "flex": "00111",
       "distance_state": "LOW",
       "keyword": "HOW"
     },
     {
       "id": "GESTURE_038",
       "mode": 0,
-      "flex": "00110",
+      "flex": "00111",
       "distance_state": "MID",
       "keyword": "AGAIN"
     },
     {
       "id": "GESTURE_039",
       "mode": 0,
-      "flex": "00110",
+      "flex": "00111",
       "distance_state": "HIGH",
       "keyword": "UNDERSTAND"
     },
     {
       "id": "GESTURE_040",
       "mode": 1,
-      "flex": "00110",
+      "flex": "00111",
       "distance_state": "LOW",
       "keyword": "DONT_UNDERSTAND"
     },
     {
       "id": "GESTURE_041",
       "mode": 1,
-      "flex": "00110",
+      "flex": "00111",
       "distance_state": "MID",
       "keyword": "SORRY"
     },
     {
       "id": "GESTURE_042",
       "mode": 1,
-      "flex": "00110",
+      "flex": "00111",
       "distance_state": "HIGH",
       "keyword": "EXCUSE_ME"
     },
     {
       "id": "GESTURE_043",
       "mode": 0,
-      "flex": "00111",
+      "flex": "01000",
       "distance_state": "LOW",
       "keyword": "GOOD_MORNING"
     },
     {
       "id": "GESTURE_044",
       "mode": 0,
-      "flex": "00111",
+      "flex": "01000",
       "distance_state": "MID",
       "keyword": "GOOD_NIGHT"
     },
     {
       "id": "GESTURE_045",
       "mode": 0,
-      "flex": "00111",
+      "flex": "01000",
       "distance_state": "HIGH",
       "keyword": "SEE_YOU"
     },
     {
       "id": "GESTURE_046",
       "mode": 1,
-      "flex": "00111",
+      "flex": "01000",
       "distance_state": "LOW",
       "keyword": "COME_HERE"
     },
     {
       "id": "GESTURE_047",
       "mode": 1,
-      "flex": "00111",
+      "flex": "01000",
       "distance_state": "MID",
       "keyword": "FOLLOW_ME"
     },
     {
       "id": "GESTURE_048",
       "mode": 1,
-      "flex": "00111",
+      "flex": "01000",
       "distance_state": "HIGH",
       "keyword": "OPEN"
     },
     {
       "id": "GESTURE_049",
       "mode": 0,
-      "flex": "01000",
+      "flex": "01001",
       "distance_state": "LOW",
       "keyword": "CLOSE"
     },
     {
       "id": "GESTURE_050",
       "mode": 0,
-      "flex": "01000",
+      "flex": "01001",
       "distance_state": "MID",
       "keyword": "THANKS"
     }

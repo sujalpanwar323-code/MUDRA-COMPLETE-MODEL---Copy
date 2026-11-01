@@ -72,11 +72,11 @@ test("accepts JSON strings and Buffer input", async t => {
 
 test("keeps each supplied ID associated with its gesture when sorting results", async t => {
     const module3 = await createModule(t);
-    const expectedThankYou = keywordFor(0, "00000", "MID");
+    const expectedThankYou = keywordFor(0, "00001", "MID");
     const expectedWhy = keywordFor(1, "00101", "HIGH");
     const result = await module3.processModule2Message([
         { sequence_id: 8, mode: 1, flex: "00101", distance_state: "HIGH" },
-        { sequence_id: 2, mode: 0, flex: "00000", distance_state: "MID" }
+        { sequence_id: 2, mode: 0, flex: "00001", distance_state: "MID" }
     ]);
 
     assert.deepEqual(result.results.map(item => ({

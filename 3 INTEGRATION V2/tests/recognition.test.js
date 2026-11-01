@@ -173,12 +173,12 @@ test("returns structured invalid-record results", async () => {
     assert.equal(result.error.code, "INVALID_SENSOR_RECORD");
 });
 
-test("recognizes a valid new-schema all-straight pattern", async () => {
-    const record = createRecord(standardLibrary[0].flex);
+test("does not recognize the all-straight pattern as a standard gesture", async () => {
+    const record = createRecord("00000");
     const result = await createEngine().recognizeRecord(record);
 
-    assert.equal(result.status, "recognized");
-    assert.equal(result.keyword, standardLibrary[0].keyword);
+    assert.equal(result.status, "unknown");
+    assert.equal(result.keyword, null);
 });
 
 test("selected custom pattern is recognized when it does not conflict with standard", async () => {
@@ -258,7 +258,7 @@ test("assigned custom patterns use the assigned name and keep sentence metadata"
 
 test("fallback is opt-in and remains independent from standard matching", async () => {
     const engine = createEngine(null, [standardLibrary[0]]);
-    const fallbackEntry = fallbackLibrary[0];
+    const fallbackEntry = fallbackLibrary.find(entry => entry.pattern === "01111");
     const record = createRecord(fallbackEntry.pattern, 1, 0, "LOW");
 
     assert.equal((await engine.recognizeRecord(record)).status, "unknown");
@@ -268,7 +268,13 @@ test("fallback is opt-in and remains independent from standard matching", async 
     assert.equal(activated.source, "fallback");
     assert.equal(activated.keyword, fallbackEntry.sentence);
 
-    const standardMatch = await engine.recognizeRecord(createRecord("00000"), {
+    const standardEntry = standardLibrary[0];
+    const standardMatch = await engine.recognizeRecord(createRecord(
+        standardEntry.flex,
+        2,
+        standardEntry.mode,
+        standardEntry.distance_state
+    ), {
         fallbackEnabled: true
     });
     assert.equal(standardMatch.status, "recognized");

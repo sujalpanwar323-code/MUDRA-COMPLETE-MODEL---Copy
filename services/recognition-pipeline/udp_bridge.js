@@ -57,6 +57,10 @@ const pipelineStats = {
 let lastDiagnosticLogTime = 0;
 let packetsSinceDiagnosticLog = 0;
 let lastRawPacketInfo = null;
+// Module 2 restarts its gesture sequence IDs after each REST boundary. Give
+// Module 3/frontend events IDs that remain unique for this bridge process so
+// the frontend's duplicate-event guard does not drop later emergency phrases.
+let module3SequenceCounter = 0;
 
 function logPipelineSummary() {
   const module2Events = Object.entries(pipelineStats.module2Events)
@@ -330,7 +334,10 @@ async function processRawPacket(rawData, rinfo = { address: "127.0.0.1", port: 0
     console.log(`[MODULE2] Batch ready: ${rawGestures.length} gesture(s) in sequence`);
 
     // 1. Boundary adaptation
-    const adaptedBatch = adaptBatchForModule3(rawGestures);
+    const adaptedBatch = adaptBatchForModule3(rawGestures).map(gesture => ({
+      ...gesture,
+      sequence_id: ++module3SequenceCounter
+    }));
     console.log(`[ADAPTER] Batch validated and adapted (${adaptedBatch.length} frames)`);
 
     // 2. Invoke Module 3 public recognition API

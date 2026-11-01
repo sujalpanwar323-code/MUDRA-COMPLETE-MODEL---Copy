@@ -98,13 +98,13 @@ test("Pipeline: Module 2 state machine traversal produces genuine 'STOP' recogni
   module2.reset();
   t.after(() => module2.reset());
 
-  // Packet template with Little finger bent (f5=true -> "00001"), Zone 1 (10cm -> "LOW")
+  // Ring finger bent (f4=true -> "00010") maps to STOP in the current library.
   const bentPacket = {
     device: "MUDRA_01",
     seq: 1,
     mode: 0,
     timestamp_ms: 1000,
-    fingers: { thumb: false, index: false, middle: false, ring: false, little: true },
+    fingers: { thumb: false, index: false, middle: false, ring: true, little: false },
     ultrasonic: { valid: true, distance_cm: 10.0 },
     gesture_code: 1
   };
@@ -120,7 +120,7 @@ test("Pipeline: Module 2 state machine traversal produces genuine 'STOP' recogni
     gesture_code: 0
   };
 
-  // Window 1: 10 packets with Little finger bent
+  // Window 1: 10 packets with Ring finger bent
   let lastGestureRes;
   for (let i = 0; i < 10; i++) {
     lastGestureRes = await processRawPacket({ ...bentPacket, seq: i + 1, timestamp_ms: 1000 + i * 100 });
@@ -139,10 +139,10 @@ test("Pipeline: Module 2 state machine traversal produces genuine 'STOP' recogni
   assert.strictEqual(finalRes.recognition.success, true);
   assert.strictEqual(finalRes.recognition.status, "processed");
 
-  // Verify genuine standard library match: 0|00001|LOW -> "STOP"
+  // Verify genuine standard library match: 0|00010|LOW -> "STOP"
   assert.deepStrictEqual(finalRes.recognition.keywords, ["STOP"]);
   assert.strictEqual(finalRes.recognition.results[0].keyword, "STOP");
-  assert.strictEqual(finalRes.recognition.results[0].pattern, "0|00001|LOW");
+  assert.strictEqual(finalRes.recognition.results[0].pattern, "0|00010|LOW");
   assert.strictEqual(finalRes.recognition.results[0].source, "standard");
 });
 

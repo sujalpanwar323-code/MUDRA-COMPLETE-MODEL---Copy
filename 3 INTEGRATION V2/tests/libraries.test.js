@@ -27,7 +27,7 @@ test("standard library has 50 unique demonstration mappings across both modes", 
     assert.equal(standard.status, "DEMONSTRATION_ONLY_UNCALIBRATED");
     assert.equal(
         standard.mappingStatus,
-        "KEYWORD_LABELS_UPDATED_PATTERN_MAPPINGS_UNCALIBRATED"
+        "KEYWORD_LABELS_UPDATED_PATTERN_MAPPINGS_UNCALIBRATED_REST_RESERVED"
     );
     assert.equal(entries.length, 50);
     assert.equal(new Set(entries.map(entry => entry.id)).size, 50);

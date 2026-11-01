@@ -27,14 +27,14 @@
       "id": "CUSTOM_4",
       "name": "Custom Gesture 4",
       "mode": 0,
-      "flex": "01000",
+      "flex": "01010",
       "distance_state": "HIGH"
     },
     {
       "id": "CUSTOM_5",
       "name": "Custom Gesture 5",
       "mode": 0,
-      "flex": "01001",
+      "flex": "01011",
       "distance_state": "LOW"
     }
   ]
